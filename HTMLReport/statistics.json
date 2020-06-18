@@ -1,0 +1,62 @@
+{
+  "Login21 /images/btn_signin.gif" : {
+    "transaction" : "Login21 /images/btn_signin.gif",
+    "sampleCount" : 15,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 246.4666666666667,
+    "minResTime" : 237.0,
+    "maxResTime" : 255.0,
+    "pct1ResTime" : 255.0,
+    "pct2ResTime" : 255.0,
+    "pct3ResTime" : 255.0,
+    "throughput" : 2.711006687149828,
+    "receivedKBytesPerSec" : 1.9882480684077353,
+    "sentKBytesPerSec" : 1.0907565967829387
+  },
+  "Total" : {
+    "transaction" : "Total",
+    "sampleCount" : 60,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 589.85,
+    "minResTime" : 237.0,
+    "maxResTime" : 936.0,
+    "pct1ResTime" : 801.9,
+    "pct2ResTime" : 840.6999999999999,
+    "pct3ResTime" : 936.0,
+    "throughput" : 7.80538571614414,
+    "receivedKBytesPerSec" : 115.52885553531937,
+    "sentKBytesPerSec" : 2.107606592298686
+  },
+  "Login19 /" : {
+    "transaction" : "Login19 /",
+    "sampleCount" : 15,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 789.4,
+    "minResTime" : 751.0,
+    "maxResTime" : 936.0,
+    "pct1ResTime" : 859.2,
+    "pct2ResTime" : 936.0,
+    "pct3ResTime" : 936.0,
+    "throughput" : 2.4822108224391854,
+    "receivedKBytesPerSec" : 38.45245144175078,
+    "sentKBytesPerSec" : 1.03506252068509
+  },
+  "HTTP Request" : {
+    "transaction" : "HTTP Request",
+    "sampleCount" : 30,
+    "errorCount" : 0,
+    "errorPct" : 0.0,
+    "meanResTime" : 661.7666666666665,
+    "minResTime" : 506.0,
+    "maxResTime" : 853.0,
+    "pct1ResTime" : 831.7,
+    "pct2ResTime" : 846.4,
+    "pct3ResTime" : 853.0,
+    "throughput" : 4.50112528132033,
+    "receivedKBytesPerSec" : 96.72935812078019,
+    "sentKBytesPerSec" : 0.5868166260315079
+  }
+}
